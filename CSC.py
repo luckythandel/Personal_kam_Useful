@@ -2,7 +2,7 @@
 
 import pexpect
 import os
-import pexpect, struct, fcntl, termios, signal, sys
+import struct, fcntl, termios, signal, sys
 import keyboard
 import argparse
 
